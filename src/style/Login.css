@@ -1,0 +1,9 @@
+.border-login {
+    height: 100vh;
+    padding-top: 10%;
+    background-color: #0B0B0B;
+}
+.tombol {
+    text-decoration: none;
+    color: white;
+}

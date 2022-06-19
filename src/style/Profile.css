@@ -1,0 +1,9 @@
+.border-profile {
+    height: 90vh;
+    padding-left: 15%;
+    padding-right: 20%;
+    background-color: #0B0B0B;
+}
+.data-transaction {
+    list-style-type: none;
+}
